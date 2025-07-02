@@ -8,19 +8,18 @@ This repository contains my complete solution for **Assignment 1** of the **Mach
 
 In this assignment, we were given a training dataset and a test dataset. The **labels for the test set were hidden**, and we had to **submit predicted prices** for the test data on Kaggle. The assignment is evaluated via a leaderboard based on model performance.
 
--  **Deadline**: July 2, 2025  
--  **Platform**: Kaggle Notebooks  
--  [Kaggle Competition Link](https://www.kaggle.com/t/1f1867586d484489bcc029150f4c0f1b)  
+- **Deadline**: July 2, 2025  
+- **Platform**: Kaggle Notebooks  
+- [Kaggle Competition Link](https://www.kaggle.com/t/1f1867586d484489bcc029150f4c0f1b)
 
 ---
 
-## Files Included
+## Files in This Repository
 
 | File Name                                         | Description                                                        |
 |--------------------------------------------------|--------------------------------------------------------------------|
-| `mlp-flight-price-prediction-assignment-1.ipynb` | Kaggle Notebook containing full code, EDA, modeling, and results  |
-| `video_walkthrough.mp4` *(Google Drive link below)* | A brief video walkthrough (under 10 min) explaining the notebook |
-| `README.md`                                      | Project overview and instructions (this file)                      |
+| `mlp-flight-price-prediction-assignment-1.ipynb` | Kaggle Notebook with full code, EDA, model building, and results  |
+| `README.md`                                      | Project overview and submission details (this file)               |
 
 ---
 
@@ -29,18 +28,18 @@ In this assignment, we were given a training dataset and a test dataset. The **l
 ### Key Steps Performed:
 1. **Data Type Identification**  
 2. **Descriptive Statistics of Numerical Columns**  
-3. **Missing Value Handling**  
+3. **Handling Missing Values**  
 4. **Duplicate Removal**  
 5. **Outlier Detection**  
-6. **Data Visualization & Insight Extraction**  
+6. **Data Visualization & Insights**  
 7. **Feature Engineering**  
-8. **Scaling Numerical Features & Encoding Categorical Variables**
+8. **Scaling & Encoding**  
 
 ---
 
 ## Models Trained
 
-A minimum of 7 different models were trained on the dataset, including:
+A minimum of 7 different models were implemented:
 
 - Linear Regression  
 - Decision Tree Regressor  
@@ -52,7 +51,7 @@ A minimum of 7 different models were trained on the dataset, including:
 
 **Hyperparameter tuning** was performed on 3+ models using `GridSearchCV` and `RandomizedSearchCV`.
 
-**Evaluation Metrics**:
+### Evaluation Metrics:
 - Mean Absolute Error (MAE)  
 - Root Mean Squared Error (RMSE)  
 - R² Score
@@ -61,15 +60,15 @@ A minimum of 7 different models were trained on the dataset, including:
 
 ## Walkthrough Video
 
-A short video explaining the structure and thought process behind the notebook:  
-**▶ [Watch Video on Google Drive](https://drive.google.com/file/d/1zlY3EcPFIIXW_j3ZhGd1gnK3C09rJzQu/view?usp=sharing)**
+A brief video (under 10 min) explaining the structure, logic, and approach used in the notebook:  
+**[Watch on Google Drive](https://drive.google.com/file/d/1zlY3EcPFIIXW_j3ZhGd1gnK3C09rJzQu/view?usp=sharing)**
 
 ---
 
 ## Kaggle Notebook
 
-**Notebook Link**:  
-[Open on Kaggle](https://www.kaggle.com/code/dewanggandhi/mlp-flight-price-prediction-assignment-1)
+Notebook is hosted on Kaggle:  
+**[View on Kaggle](https://www.kaggle.com/code/dewanggandhi/mlp-flight-price-prediction-assignment-1)**
 
 ---
 
@@ -78,10 +77,11 @@ A short video explaining the structure and thought process behind the notebook:
 **Dewang Gandhi**  
 B.Tech Student | Machine Learning Enthusiast  
 GitHub: [@dewanggandhi01](https://github.com/dewanggandhi01)  
-Email: dewanggandhi1@gmail.com, dewanggandhi2@gmail.com
+Email: dewanggandhi1@gmail.com / dewanggandhi2@gmail.com
 
 ---
 
 ## License
 
-This project is intended for educational use only and submitted as part of an academic assignment. All rights reserved.
+This project is submitted as part of an academic assignment. All rights reserved.  
+
