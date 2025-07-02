@@ -11,8 +11,6 @@ In this assignment, we were given a training dataset and a test dataset. The **l
 -  **Deadline**: July 2, 2025  
 -  **Platform**: Kaggle Notebooks  
 -  [Kaggle Competition Link](https://www.kaggle.com/t/1f1867586d484489bcc029150f4c0f1b)  
--  [Submission & Peer Review Guidelines](https://docs.google.com/document/d/e/2PACX-1vTGt489Zx6hsJUsAWXzsbPTpqnHPBrl7wtQkEoRkxGWptLTti53fOKtKpuZvLWpNva9KMarV-V25pUN/pub)  
--  [Submission Form](https://forms.gle/6shTk5CicYyZEBx59)
 
 ---
 
@@ -80,7 +78,7 @@ A short video explaining the structure and thought process behind the notebook:
 **Dewang Gandhi**  
 B.Tech Student | Machine Learning Enthusiast  
 GitHub: [@dewanggandhi01](https://github.com/dewanggandhi01)  
-Email: dewanggandhi01@gmail.com
+Email: dewanggandhi1@gmail.com, dewanggandhi2@gmail.com
 
 ---
 
